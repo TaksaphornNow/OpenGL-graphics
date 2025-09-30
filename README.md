@@ -48,8 +48,7 @@ OpenGL-graphics/
 ├── resources/
 │   └── textures/
 │       ├── copper_diffuse.png
-│       ├── copper_specular.png
-│       └── ...
+│       └── copper_specular.png
 │
 ├── media/
 │   ├── project_result_pic.png
@@ -61,7 +60,7 @@ OpenGL-graphics/
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 - **LearnOpenGL** tutorials by Joey de Vries → [https://learnopengl.com](https://learnopengl.com)  
 - **GLM** mathematics library → [https://github.com/g-truc/glm](https://github.com/g-truc/glm)  
 - **stb_image** loader by Sean Barrett → [https://github.com/nothings/stb](https://github.com/nothings/stb)  
