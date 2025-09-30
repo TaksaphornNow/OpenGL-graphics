@@ -28,7 +28,7 @@ It is based on the LearnOpenGL framework and extended with additional lighting e
 ![Screenshot](media/project_result_pic.png)
 
 ### Demo Video
-![Demo Video](https://drive.google.com/file/d/1uMenNWI0WJHK3FqsGX-Ft1OV9rMsg8jE/view?usp=drive_link)
+![Demo Video] https://github.com/user-attachments/assets/2b4a3592-e979-48ee-8a2f-73703998c703
 
 ---
 
